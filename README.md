@@ -21,11 +21,10 @@ A Python CLI tool that automates folder and file scaffolding for **42 Python pro
 ## Usage
 
 ```bash
-python3 main.py <file.pdf> <target_folder>
+python3 main.py <file.pdf> [target_folder]
 ```
 
-### Example
-
+## Compilation
 ```bash
-python3 main.py ./en.subject.pdf ./projects
+./build.sh
 ```
