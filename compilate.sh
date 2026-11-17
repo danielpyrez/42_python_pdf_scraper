@@ -1,0 +1,1 @@
+pyinstaller --onefile --name pdf_parser main.py
